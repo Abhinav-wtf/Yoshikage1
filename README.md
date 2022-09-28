@@ -25,6 +25,7 @@
 
 # My Activity Graph
 
+![ my repositories](https://img.shields.io/badge/Chisato-purple?style=for-the-badge&logo=Chisato hasegawa) 
 
 ![Yoshikage's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=Yoshikage1&custom_title=My%20Graph&bg_color=241732&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 # visitor count
