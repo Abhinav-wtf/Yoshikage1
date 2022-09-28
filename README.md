@@ -9,7 +9,7 @@
   
   
   <a href="https://telegram.me/kira_Yoshikage_789">
-    <img src="https://img.shields.io/badge/Telegram-Blue?style=for-the-badge&logo=telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/>
   </a>  
  </a>
   <a href="https://github.com/Yoshikage1">
