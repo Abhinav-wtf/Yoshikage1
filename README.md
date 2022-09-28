@@ -1,6 +1,5 @@
 <h1 align="center">hello there! 👋 i'm kira!!</h1>
 </p>
-<p align="center">
 https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=just+a+curios+developer+from+india;still+learning%E2%9D%A4%EF%B8%8F
 <p align="center">
   <a href="https://t.me/kira_Yoshikage_789"><img src="https://telegra.ph/file/12e39f8259f0a1c69942f.jpg" alt="kira"></a>
