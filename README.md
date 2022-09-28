@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+curious+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+on+a+secret+project%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
-  <a href="https://t.me/xelcius"><img src="https://telegra.ph/file/62bda1ccc1a9cf5228f98.jpg" alt="xelcius"></a>
+  <a href="https://t.me/xelcius"><img src="https://telegra.ph/file/12e39f8259f0a1c69942f.jpg" alt="xelcius"></a>
   
   
   
@@ -13,7 +13,7 @@
   </a>  
  </a>
   <a href="https://github.com/Yoshikage1">
-    <img src="https://img.shields.io/github/followers/h0daka?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+    <img src="https://img.shields.io/github/followers/h0daka?label=GitHub&logo=github&style=for-the-badge&color=black"/>
   </a>
 
 # My GitHub Stats
