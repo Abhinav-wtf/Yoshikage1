@@ -29,3 +29,6 @@
 ![Yoshikage's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=Yoshikage1&custom_title=My%20Graph&bg_color=241732&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 # visitor count
 <a href="https://t.me/Kira_yoshikage_789"><img alt="Count" src="https://count.getloli.com/get/@Yoshikage1?theme=rule34" /></a>
+
+https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=deleted+my+old+account">
+</p>
