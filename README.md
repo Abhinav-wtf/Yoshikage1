@@ -23,8 +23,6 @@
 ![Yoshikage's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Yoshikage1&theme=tokyonight)
 ![Yoshikage's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshikage1&theme=tokyonight&layout=compact&langs_count=6)
 
-# My Activity Graph 
 
-![Yoshikage's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=Yoshikage1&custom_title=My%20Graph&bg_color=241732&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 
 
